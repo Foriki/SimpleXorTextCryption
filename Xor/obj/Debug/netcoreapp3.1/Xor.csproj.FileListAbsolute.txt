@@ -1,0 +1,11 @@
+/home/foriki/Desktop/code/test/Xor/Xor/bin/Debug/netcoreapp3.1/Xor
+/home/foriki/Desktop/code/test/Xor/Xor/bin/Debug/netcoreapp3.1/Xor.deps.json
+/home/foriki/Desktop/code/test/Xor/Xor/bin/Debug/netcoreapp3.1/Xor.runtimeconfig.json
+/home/foriki/Desktop/code/test/Xor/Xor/bin/Debug/netcoreapp3.1/Xor.runtimeconfig.dev.json
+/home/foriki/Desktop/code/test/Xor/Xor/bin/Debug/netcoreapp3.1/Xor.dll
+/home/foriki/Desktop/code/test/Xor/Xor/bin/Debug/netcoreapp3.1/Xor.pdb
+/home/foriki/Desktop/code/test/Xor/Xor/obj/Debug/netcoreapp3.1/Xor.csprojAssemblyReference.cache
+/home/foriki/Desktop/code/test/Xor/Xor/obj/Debug/netcoreapp3.1/Xor.AssemblyInfoInputs.cache
+/home/foriki/Desktop/code/test/Xor/Xor/obj/Debug/netcoreapp3.1/Xor.AssemblyInfo.cs
+/home/foriki/Desktop/code/test/Xor/Xor/obj/Debug/netcoreapp3.1/Xor.dll
+/home/foriki/Desktop/code/test/Xor/Xor/obj/Debug/netcoreapp3.1/Xor.pdb
